@@ -1,1 +1,6 @@
-{"framework": null}
+{
+  "framework": null,
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://wagnercafe.netlify.app/$1", "permanent": true }
+  ]
+}
